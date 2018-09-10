@@ -1,0 +1,11 @@
+E:\C# TEST\worker process\worker process\bin\Debug\worker process.exe.config
+E:\C# TEST\worker process\worker process\bin\Debug\worker process.exe
+E:\C# TEST\worker process\worker process\bin\Debug\worker process.pdb
+E:\C# TEST\worker process\worker process\obj\Debug\worker process.csprojResolveAssemblyReference.cache
+E:\C# TEST\worker process\worker process\obj\Debug\worker_process.Form1.resources
+E:\C# TEST\worker process\worker process\obj\Debug\worker_process.login.resources
+E:\C# TEST\worker process\worker process\obj\Debug\worker_process.Properties.Resources.resources
+E:\C# TEST\worker process\worker process\obj\Debug\worker process.csproj.GenerateResource.Cache
+E:\C# TEST\worker process\worker process\obj\Debug\worker process.exe
+E:\C# TEST\worker process\worker process\obj\Debug\worker process.pdb
+E:\C# TEST\worker process\worker process\obj\Debug\worker_process.Form2.resources
